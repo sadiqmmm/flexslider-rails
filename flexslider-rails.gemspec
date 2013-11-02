@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["JiriKolarik"]
   spec.email         = ["jiri.kolarik@imin.cz"]
   spec.description   = %q{FlexSlider Rails}
-  spec.summary       = %q{TODO: Write a gem summary}
-  spec.homepage      = ""
+  spec.summary       = %q{FlexSlider for Rails assets pipeline}
+  spec.homepage      = "https://github.com/werein/flexslider-rails"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
